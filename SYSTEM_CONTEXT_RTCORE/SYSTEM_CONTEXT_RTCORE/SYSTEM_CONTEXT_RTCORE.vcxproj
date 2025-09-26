@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="SYSTEM_CONTEXT_RTCORE.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RTCore64.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
